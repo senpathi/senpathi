@@ -2,16 +2,14 @@
 
 <h1 align="center">Hi 👋, I'm Nipuna Pathirana.</h1>
 
-- Senior Software Engineer at [MyBudget](https://www.mybudget.com.au/).
+- Software Engineer (Golang) at [Finlex GmbH](https://finlex.io/).
 - Passionate in Distributed System Designing and Developing
   
 <h3 align="left">Connect with me 📫 :</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nipuna-pathirana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="senpathi" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/story/10866798?view=Cv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10866798" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/10866798/nipuna?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10866798" height="30" width="40" /></a>
 <a href="mailto:nsspathirana@gmail.com"><img align="center" src="https://raw.githubusercontent.com/timche/gmail-desktop/main/media/icon.svg" alt="nsspathirana@gmail.com" height="40" width="40" /></a>
-<a href="https://facebook.com/SPNS.Specialz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nipuna.pathirana" height="30" width="40" /></a>
-<a href="https://instagram.com/__y.ta__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__y.ta__" height="30" width="40" /></a>
 <a> <img align="right" src="https://komarev.com/ghpvc/?username=senpathi&label=Profile%20views&color=0e75b6&style=flat" alt="senpathi" /></a>
 </p>
 
